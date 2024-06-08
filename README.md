@@ -1,4 +1,4 @@
-# Helping-modules for a system of complex eco-energy-economic monitoring (CEEEM)
+# Helping modules for a system of complex eco-energy-economic monitoring (CEEEM)
 
 I created these modules during implementation of bachelor graduate work.
 These modules helps beginning users to get information about unknown elements of CEEEM. There are two modules: "interactive-hints" and "instruction".
