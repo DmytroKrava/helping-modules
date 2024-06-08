@@ -5,16 +5,16 @@ These modules helps beginning users to get information about unknown elements of
 
 ## Module "interactive-hints"
 In module "interactive-hints" implemented such elemts of helping system as tooltip, modal window, audio prompt. This module consists of two elements:
-- JavaScript-file
-- CSS-file
+- JavaScript-file "interactive-hints.js"
+- CSS-file "style.css"
 
 The video with work of elements of this module on CEEEM you can find in this module.
 
 ## Module "instruction"
 The module "instruction" implements a web-page with functional, which contains all information about elements of CEEEM. User can read it, if there is unknown situation during work with the site.
 This module consists of such elements:
-- XML-like file with HTML5 and JavaScript (Used such format because CEEEM was built with using React)
-- CSS-file
+- XML-like file "instruction.jsx" (Used such format because CEEEM was built with using React)
+- CSS-file "instruction.css"
 - folder 'images'
 
 The video with work of elements of this module on CEEEM you can find in this module.
