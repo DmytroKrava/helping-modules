@@ -30,4 +30,4 @@ In this project I mastered:
 - CSS Media
 
 ## Running of modules
-**Because of this project is not mine,** I uploaded only modules created by me, but not full version of CEEEM. Therefore you can not run these modules. But I recorded on video the work of these modules on the web-site. As I said before, **you can find these videos in modules**.
+***Because of this project is not mine,*** I uploaded only modules created by me, but not full version of CEEEM. Therefore you can not run these modules. But I recorded on video the work of these modules on the web-site. As I said before, ***you can find these videos in modules***.
