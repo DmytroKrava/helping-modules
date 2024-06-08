@@ -1,7 +1,7 @@
 # Helping modules for a system of complex eco-energy-economic monitoring (CEEEM)
 
 I created these modules during implementation of bachelor graduate work.
-These modules helps beginning users to get information about unknown elements of CEEEM. There are two modules: "interactive-hints" and "instruction".
+These modules helps beginning users to get information about unknown elements of CEEEM. There are two modules: _interactive-hints_ and _instruction_.
 
 ## Module "interactive-hints"
 In module "interactive-hints" implemented such elemts of helping system as tooltip, modal window, audio prompt. This module consists of two elements:
