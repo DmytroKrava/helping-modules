@@ -49,7 +49,6 @@ export function tooltip(event) {
     tooltip.className = 'tooltip-style';
     document.body.appendChild(tooltip);
 
-
     let buttonRect = button.getBoundingClientRect();
     let tooltipRect = tooltip.getBoundingClientRect();
 
