@@ -23,11 +23,8 @@ The video with work of elements of this module on CEEEM you can find in this mod
 ## Acquired skills
 In this project I mastered:
 - Basics of JavaScript
-- JavaScript DOM
 - Basics of HTML
 - Basics of CSS
-- CSS Grids
-- CSS Media
 
 ## Running of modules
 ***Because of this project is not mine,*** I uploaded only modules created by me, but not full version of CEEEM. Therefore you can not run these modules. But I recorded on video the work of these modules on the web-site. As I said before, ***you can find these videos in modules***.
